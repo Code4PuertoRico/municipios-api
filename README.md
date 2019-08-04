@@ -71,4 +71,4 @@ I needed to know the answer to the following type of question: What are the thre
 
 ## Credits
 
-Municipality adjacency data obtained from publicly available [Census data](https://www.census.gov/programs-surveys/geography.html).
+Municipality adjacency data obtained from publicly available [Census data](https://www.census.gov/geographies/reference-files/2010/geo/county-adjacency.html).
