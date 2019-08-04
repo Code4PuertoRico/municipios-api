@@ -135,12 +135,15 @@ def adjacent(municipality):
     if municipality not in ALL_MUNICIPALITIES:
         return jsonify(error=f"{escape(municipality)} is invalid"), 404
 
-    distance = int(request.args.get("distance", (request.args.get("distancia"), 1)))
+    distance = request.args.get("distance", request.args.get("distancia"))
 
-    adjacent = get_n_adjacent_municipalities(municipality, distance)
+    if not distance or not distance.isdigit():
+        distance = 1
+
+    adjacent = get_n_adjacent_municipalities(municipality, int(distance))
     return jsonify(result=adjacent)
 
 
 @app.route("/")
 def hello():
-    return redirect(url_for("adjacent", municipality="san-juan", distance=1))
+    return redirect(url_for("adjacent", municipality="dorado", distance=1))
