@@ -4,7 +4,7 @@ This is source code for generating a graph representation of Puerto Rico municip
     
 ## Where
 
-You can use the API at [municipios.rauln.com](municipios.rauln.com). There are two endpoints: `/distance` and `/adjacent`. The API is very simple and can be explained with two examples:
+You can use the API at [municipios.rauln.com](https://municipios.rauln.com). There are two endpoints: `/distance` and `/adjacent`. The API is very simple and can be explained with two examples:
 
 
 * `GET https://municipios.rauln.com/distance/san-juan/mayaguez`
