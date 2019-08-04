@@ -131,7 +131,6 @@
 		"Bayamón Municipio, PR"	72021
 		"Cataño Municipio, PR"	72033
 		"Guaynabo Municipio, PR"	72061
-		"San Juan Municipio, PR"	72127
 		"Toa Baja Municipio, PR"	72137
 
 "Cayey Municipio, PR"	72035	
@@ -506,10 +505,8 @@
 		"Aguas Buenas Municipio, PR"	72007
 		"Caguas Municipio, PR"	72025
 		"Carolina Municipio, PR"	72031
-		"Cataño Municipio, PR"	72033
 		"Guaynabo Municipio, PR"	72061
 		"San Juan Municipio, PR"	72127
-		"Toa Baja Municipio, PR"	72137
 		"Trujillo Alto Municipio, PR"	72139
 
 "San Lorenzo Municipio, PR"	72129	
@@ -551,7 +548,6 @@
 		"Bayamón Municipio, PR"	72021
 		"Cataño Municipio, PR"	72033
 		"Dorado Municipio, PR"	72051
-		"San Juan Municipio, PR"	72127
 		"Toa Alta Municipio, PR"	72135
 		"Toa Baja Municipio, PR"	72137
 
