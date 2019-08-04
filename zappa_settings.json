@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "app_function": "api.api.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "municipios-adyacentes",
+        "runtime": "python3.7",
+        "slim_handler": true,
+        "s3_bucket": "zappa-gg3880f12"
+    },
+    "production": {
+        "app_function": "api.api.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "municipios-adyacentes",
+        "runtime": "python3.7",
+        "slim_handler": true,
+        "s3_bucket": "zappa-gg3880f12",
+        "certificate_arn": "arn:aws:acm:us-east-1:418027373061:certificate/5dcc3c0f-2f1d-4540-b0fe-52a9ca078f53",
+        "domain": "municipios.rauln.com"
+    }
+}
