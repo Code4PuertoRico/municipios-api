@@ -1,3 +1,10 @@
+## To-Do
+
+1. Add a `CONTRIBUTING.md`.
+1. Add a `CODE_OF_CONDUCT.md`.
+1. Add issue and pull request templates.
+1. Migrate code base to use [AWS Chalice](https://github.com/aws/chalice).
+
 ## What
     
 This is source code for generating a graph representation of Puerto Rico municipalities as well as for running a Flask API that can retrieve useful data from the graph.
