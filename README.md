@@ -1,9 +1,9 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) 
+
 ## To-Do
 
 1. Add a `CONTRIBUTING.md`.
-1. Add a `CODE_OF_CONDUCT.md`.
 1. Add issue and pull request templates.
-1. Migrate code base to use [AWS Chalice](https://github.com/aws/chalice).
 
 ## What
     
