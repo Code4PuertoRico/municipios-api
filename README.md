@@ -1,14 +1,7 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) 
-
-## To-Do
-
-1. Add a `CONTRIBUTING.md`.
-1. Add issue and pull request templates.
-
 ## What
-    
+
 This is source code for generating a graph representation of Puerto Rico municipalities as well as for running a Flask API that can retrieve useful data from the graph.
-    
+
 ## Where
 
 You can use the API at [municipios.rauln.com](https://municipios.rauln.com). There are two endpoints: `/distance` and `/adjacent`. The API is very simple and can be explained with two examples:
