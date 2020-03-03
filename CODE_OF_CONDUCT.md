@@ -1,0 +1,1 @@
+## This project adheres to the [Code 4 Puerto Rico Code of Conduct](https://github.com/Code4PuertoRico/codeofconduct).
