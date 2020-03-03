@@ -11,7 +11,6 @@ __Note__: This file is adapted and translated from the SuministrosPR [CONTRIBUTI
 ### Picking a task
 - If the issue does not yet have a contributor assigned to it and no one has commented that they would like to work on it, feel free to comment on the issue yourself, letting others know that you intend to work on it.
 
-
 ### Submitting changes
 - Fork the project using your GitHub account.
 - Create a separate branch in order to contain your changes to the code.
