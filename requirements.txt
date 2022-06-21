@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.0
 MarkupSafe==1.1.1
 networkx==2.4
-numpy==1.18.1
+numpy==1.22.0
 pathspec==0.7.0
 python-slugify==4.0.0
 regex==2020.1.8
